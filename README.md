@@ -23,6 +23,7 @@ En este proyecto hice una pagina que enlista la variedad de articulos y sus cara
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/Gioglz/Ejercicio-2-Simple-Article-Listing/tree/main
+
 Deploy: [LINK] https://gioglz.github.io/Ejercicio-2-Simple-Article-Listing/
 ---
 
