@@ -21,9 +21,10 @@
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://github.com/Gioglz/Ejercicio-2-Simple-Article-Listing/tree/main
+Deploy: [LINK] https://gioglz.github.io/Ejercicio-2-Simple-Article-Listing/
 ---
 
 ## 📝 Reflexión
+Las dificultades que tuve fueron linear las lineas y que todo quedara centrado no quedo del todo como queria pero esta bueno Y lo solucione con base a videos que encontre de tutoriales de como usar las lineas y sus espacios.
 
