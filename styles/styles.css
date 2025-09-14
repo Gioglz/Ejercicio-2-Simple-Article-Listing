@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111;
+  background-color: #fff;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 16px;
+  text-align: center;
+}
+
+/* Título */
+header h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.divider {
+  width: 60px;
+  height: 4px;
+  background: repeating-linear-gradient(
+    to right,
+    #ccc,
+    #ccc 6px,
+    transparent 6px,
+    transparent 12px
+  );
+  margin: 0 auto 32px;
+  border-radius: 2px;
+}
+
+.articles {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* tarjetas */
+.article-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  text-align: left;
+}
+
+.article-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.article-content h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.date {
+  font-size: 14px;
+  color: rgb(107, 114, 128);
+}
+
+@media (max-width: 600px) {
+  .article-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .article-card img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin: 24px 0;
+  color: rgb(55, 65, 81);
+}
+
+.author-info a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}
