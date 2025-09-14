@@ -8,6 +8,7 @@
 ---
 
 ## 📌 Descripción
+En este proyecto hice una pagina que enlista la variedad de articulos y sus caracteristicas de cada uno de ellos y su fecha de elaboracion.
 
 
 
